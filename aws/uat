@@ -1,0 +1,195 @@
+aws ecr create-repository --repository-name events-uat --image-scanning-configuration scanOnPush=true
+
+repository:
+  createdAt: '2020-06-26T09:42:06+08:00'
+  imageScanningConfiguration:
+    scanOnPush: true
+  imageTagMutability: MUTABLE
+  registryId: '592513799105'
+  repositoryArn: arn:aws:ecr:ap-southeast-1:592513799105:repository/events-uat
+  repositoryName: events-uat
+  repositoryUri: 592513799105.dkr.ecr.ap-southeast-1.amazonaws.com/events-uat
+
+
+aws elbv2 create-target-group \
+     --name ecs-uat-events \
+     --protocol HTTP \
+     --port 80 \
+     --target-type ip \
+     --vpc-id vpc-bf8042d8 \
+	 --health-check-path /events/Log
+	 
+{
+    "TargetGroups": [
+        {
+            "TargetGroupArn": "arn:aws:elasticloadbalancing:ap-southeast-1:592513799105:targetgroup/ecs-uat-events/d57b6ab9a38a04ec",
+            "TargetGroupName": "ecs-uat-events",
+            "Protocol": "HTTP",
+            "Port": 80,
+            "VpcId": "vpc-bf8042d8",
+            "HealthCheckProtocol": "HTTP",
+            "HealthCheckPort": "traffic-port",
+            "HealthCheckEnabled": true,
+            "HealthCheckIntervalSeconds": 30,
+            "HealthCheckTimeoutSeconds": 5,
+            "HealthyThresholdCount": 5,
+            "UnhealthyThresholdCount": 2,
+            "HealthCheckPath": "/events/Log",
+            "Matcher": {
+                "HttpCode": "200"
+            },
+            "TargetType": "ip"
+        }
+    ]
+}
+
+#to check priority
+aws elbv2 describe-rules --listener-arn arn:aws:elasticloadbalancing:ap-southeast-1:592513799105:listener/app/redmapsg-avmh-devalb-01/4b506305cbd286f5/6251c0185b8661a2
+
+#execute
+aws elbv2 create-rule \
+--listener-arn arn:aws:elasticloadbalancing:ap-southeast-1:592513799105:listener/app/redmapsg-avmh-devalb-01/4b506305cbd286f5/6251c0185b8661a2 \
+--priority 14 \
+--conditions file://aws-elb-create-listener-rule.json \
+--actions Type=forward,TargetGroupArn=arn:aws:elasticloadbalancing:ap-southeast-1:592513799105:targetgroup/ecs-uat-events/d57b6ab9a38a04ec
+
+{
+    "Rules": [
+        {
+            "RuleArn": "arn:aws:elasticloadbalancing:ap-southeast-1:592513799105:listener-rule/app/redmapsg-avmh-devalb-01/4b506305cbd286f5/6251c0185b8661a2/c026a14e9123bbf1",
+            "Priority": "14",
+            "Conditions": [
+                {
+                    "Field": "path-pattern",
+                    "Values": [
+                        "/events/*"
+                    ],
+                    "PathPatternConfig": {
+                        "Values": [
+                            "/events/*"
+                        ]
+                    }
+                },
+                {
+                    "Field": "host-header",
+                    "Values": [
+                        "apitest.smartcloud.com.au"
+                    ],
+                    "HostHeaderConfig": {
+                        "Values": [
+                            "apitest.smartcloud.com.au"
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "Type": "forward",
+                    "TargetGroupArn": "arn:aws:elasticloadbalancing:ap-southeast-1:592513799105:targetgroup/ecs-uat-events/d57b6ab9a38a04ec",
+                    "ForwardConfig": {
+                        "TargetGroups": [
+                            {
+                                "TargetGroupArn": "arn:aws:elasticloadbalancing:ap-southeast-1:592513799105:targetgroup/ecs-uat-events/d57b6ab9a38a04ec",
+                                "Weight": 1
+                            }
+                        ],
+                        "TargetGroupStickinessConfig": {
+                            "Enabled": false
+                        }
+                    }
+                }
+            ],
+            "IsDefault": false
+        }
+    ]
+}
+
+
+aws ecs create-service --cli-input-json file://aws-ecs-create-service.json  --region ap-southeast-1
+
+service:
+  clusterArn: arn:aws:ecs:ap-southeast-1:592513799105:cluster/uat-cluster
+  createdAt: '2020-06-26T09:17:50.784000+08:00'
+  deploymentConfiguration:
+    maximumPercent: 200
+    minimumHealthyPercent: 100
+  deployments:
+  - createdAt: '2020-06-26T09:17:50.784000+08:00'
+    desiredCount: 1
+    id: ecs-svc/1182183621223995978
+    launchType: FARGATE
+    networkConfiguration:
+      awsvpcConfiguration:
+        assignPublicIp: DISABLED
+        securityGroups:
+        - sg-018159484db345107
+        subnets:
+        - subnet-2db73164
+    pendingCount: 0
+    platformVersion: 1.3.0
+    runningCount: 0
+    status: PRIMARY
+    taskDefinition: arn:aws:ecs:ap-southeast-1:592513799105:task-definition/xtracta-uat:1
+    updatedAt: '2020-06-26T09:17:50.784000+08:00'
+  desiredCount: 1
+  enableECSManagedTags: false
+  events: []
+  healthCheckGracePeriodSeconds: 0
+  launchType: FARGATE
+  loadBalancers:
+  - containerName: xtracta-uat
+    containerPort: 80
+    targetGroupArn: arn:aws:elasticloadbalancing:ap-southeast-1:592513799105:targetgroup/ecs-uat-xtracta/cb6d63aefb653ad6
+  networkConfiguration:
+    awsvpcConfiguration:
+      assignPublicIp: DISABLED
+      securityGroups:
+      - sg-018159484db345107
+      subnets:
+      - subnet-2db73164
+  pendingCount: 0
+  placementConstraints: []
+  placementStrategy: []
+  platformVersion: LATEST
+  propagateTags: NONE
+  roleArn: arn:aws:iam::592513799105:role/aws-service-role/ecs.amazonaws.com/AWSServiceRoleForECS
+  runningCount: 0
+  schedulingStrategy: REPLICA
+  serviceArn: arn:aws:ecs:ap-southeast-1:592513799105:service/xtracta-uat-service
+  serviceName: xtracta-uat-service
+  serviceRegistries: []
+  status: ACTIVE
+  taskDefinition: arn:aws:ecs:ap-southeast-1:592513799105:task-definition/xtracta-uat:1
+
+aws ecs list-tasks --cluster uat-cluster
+
+
+aws ecs stop-task \
+	--cluster uat-cluster \
+    --task arn:aws:ecs:ap-southeast-1:592513799105:task/be2a7434-b1b6-4da2-81b1-1c73509d66d8 \
+	--reason "disabled public ip"
+
+aws ecs delete-service --cluster uat-cluster --service cws-uat-service --force
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

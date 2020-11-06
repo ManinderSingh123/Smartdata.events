@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>FolderProfile2</NameOfLastUsedPublishProfile>
+    <ShowAllFiles>true</ShowAllFiles>
+    <Controller_SelectedScaffolderID>MvcControllerEmptyScaffolder</Controller_SelectedScaffolderID>
+    <Controller_SelectedScaffolderCategoryPath>root/Controller</Controller_SelectedScaffolderCategoryPath>
+    <WebStackScaffolding_ControllerDialogWidth>600</WebStackScaffolding_ControllerDialogWidth>
+    <WebStackScaffolding_IsLayoutPageSelected>True</WebStackScaffolding_IsLayoutPageSelected>
+    <WebStackScaffolding_IsPartialViewSelected>True</WebStackScaffolding_IsPartialViewSelected>
+    <WebStackScaffolding_IsReferencingScriptLibrariesSelected>False</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
+    <WebStackScaffolding_LayoutPageFile />
+    <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <WebStackScaffolding_ViewDialogWidth>600</WebStackScaffolding_ViewDialogWidth>
+    <View_SelectedScaffolderID>RazorViewEmptyScaffolder</View_SelectedScaffolderID>
+    <View_SelectedScaffolderCategoryPath>root/View</View_SelectedScaffolderCategoryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <StartAction>Project</StartAction>
+    <StartProgram></StartProgram>
+    <StartArguments></StartArguments>
+    <StartWorkingDirectory></StartWorkingDirectory>
+    <ExternalConsole>true</ExternalConsole>
+    <ConsolePause>true</ConsolePause>
+    <EnvironmentVariables>
+      <Variable name="CONN_STRING" value="CjUooM7OPBQ6NS4QuE8Ktn2AaG7qEuGLW8P3OeSdJG9bEu7YfRrU9GKbA4rUEkZFz4OSggmxGH00HBsX6MDdJXP40HIwg+xDts4VRl+eN38cOasnY+2R03Egj6ub907NuQ+7iUgsxAsTsLXk52mzs4ABP64bLC4aMxUo2pQO8UmPm+Zi0JSduhMaZuAahEireEvPVJ3TYdq/JADvlgOj8o8+DPAk1VFkU6/8JAHU/4M=" xmlns="" />
+      <Variable name="ENV" value="local" xmlns="" />
+      <Variable name="ASPNETCORE_ENVIRONMENT" value="Development" xmlns="" />
+    </EnvironmentVariables>
+    <ApplicationURL>http://localhost:5000;https://localhost:5001</ApplicationURL>
+    <MonoDebugMode>false</MonoDebugMode>
+    <MonoDebugCasts>false</MonoDebugCasts>
+    <MonoDebugMdbOptimizations>false</MonoDebugMdbOptimizations>
+    <MonoGdbInfo>false</MonoGdbInfo>
+    <MonoProfile></MonoProfile>
+    <MonoVerboseLevel>0</MonoVerboseLevel>
+    <MonoRuntimeVersion></MonoRuntimeVersion>
+    <MonoSecurityMode>Disabled</MonoSecurityMode>
+    <MonoVerifyAll>false</MonoVerifyAll>
+    <MonoTraceExpressions></MonoTraceExpressions>
+    <MonoLogLevel>Default</MonoLogLevel>
+    <MonoLogMask>None</MonoLogMask>
+    <MonoXmlSerializerGeneration></MonoXmlSerializerGeneration>
+    <MonoConfigDir></MonoConfigDir>
+    <MonoConfigFile></MonoConfigFile>
+    <MonoDisableAIO>false</MonoDisableAIO>
+    <MonoDisableManagedCollation>false</MonoDisableManagedCollation>
+    <MonoExternalEncodings></MonoExternalEncodings>
+    <MonoGacPrefix></MonoGacPrefix>
+    <MonoStripDriveLetters>false</MonoStripDriveLetters>
+    <MonoCaseInsensitivePaths>false</MonoCaseInsensitivePaths>
+    <MonoManagedWatcher>false</MonoManagedWatcher>
+    <MonoNoSmp>false</MonoNoSmp>
+    <MonoPath></MonoPath>
+    <MonoWindowsFormsTheme></MonoWindowsFormsTheme>
+    <MonoThreadsPerCpu></MonoThreadsPerCpu>
+    <MonoAspNetNoDelete>false</MonoAspNetNoDelete>
+    <MonoTraceListener></MonoTraceListener>
+    <MonoXExceptions>false</MonoXExceptions>
+    <MonoXDebug>false</MonoXDebug>
+    <MonoGcType>Default</MonoGcType>
+    <MonoLlvm>false</MonoLlvm>
+    <MonoNoLlvm>false</MonoNoLlvm>
+    <MonoDesktopMode>false</MonoDesktopMode>
+    <MonoServerMode>false</MonoServerMode>
+    <MonoAdditionalOptions></MonoAdditionalOptions>
+    <MonoArchitecture>Default</MonoArchitecture>
+    <Architecture></Architecture>
+    <TargetRuntimeId></TargetRuntimeId>
+  </PropertyGroup>
+</Project>

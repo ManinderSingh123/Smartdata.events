@@ -1,0 +1,52 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:51141",
+      "sslPort": 44333
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:44333/events/main/index",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "nativeDebugging": true
+    },
+    "CentralisedErrorLogging": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:44387/events/main/index",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:5001;http://localhost:5000"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/weatherforecast",
+      "environmentVariables": {
+        "ENV": "local",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "publishAllPorts": true,
+      "useSSL": true
+    },
+    "Redmap.Events": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ENV": "local",
+        "CONN_STRING": "CjUooM7OPBQ6NS4QuE8Ktn2AaG7qEuGLW8P3OeSdJG9bEu7YfRrU9GKbA4rUEkZFz4OSggmxGH00HBsX6MDdJXP40HIwg+xDts4VRl+eN38cOasnY+2R03Egj6ub907NuQ+7iUgsxAsTsLXk52mzs4ABP64bLC4aMxUo2pQO8UmPm+Zi0JSduhMaZuAahEireEvPVJ3TYdq/JADvlgOj8o8+DPAk1VFkU6/8JAHU/4M=",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5000;https://localhost:5001"
+    }
+  }
+}

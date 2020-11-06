@@ -1,0 +1,48 @@
+{
+  "family": "${AWS_ECR_IMAGE}-${ENV}",
+  "executionRoleArn": "arn:aws:iam::${AWS_ACCOUNT_NUMBER}:role/ecsTaskExecutionRole",
+  "networkMode": "awsvpc",
+  "containerDefinitions": [
+      {
+          "name": "${AWS_ECR_IMAGE}-${ENV}",
+          "image": "${AWS_ACCOUNT_NUMBER}.dkr.ecr.${AWS_DEFAULT_REGION}.amazonaws.com/${AWS_ECR_IMAGE}-${ENV}:latest",
+          "portMappings": [
+            {
+              "hostPort": 80,
+              "protocol": "tcp",
+              "containerPort": 80
+            }],
+          "environment": [
+            {
+              "name": "ENV",
+              "value": "${ENV}"
+            },
+            {
+              "name": "CONN_STRING",
+              "value": "${CONN_STRING}"
+            }
+          ],
+          "essential": true,
+          "logConfiguration": {
+            "logDriver": "awslogs",
+            "options": {
+              "awslogs-group": "/ecs/events-${ENV}-service",
+              "awslogs-region": "ap-southeast-1",
+              "awslogs-stream-prefix": "ecs"
+            },
+            "secretOptions": []
+          }
+      }
+  ],
+  "requiresCompatibilities": [
+      "FARGATE"
+  ],
+  "cpu": "256",
+  "memory": "512",
+  "tags": [
+    {
+        "key": "Environment",
+        "value": "${ENV}"
+    }
+   ]
+}

@@ -1,0 +1,50 @@
+{
+    "Rules": [
+        {
+            "RuleArn": "arn:aws:elasticloadbalancing:ap-southeast-1:711157212011:listener-rule/app/ENG-ALB/d9254fc2d6a42763/e91b05f110f18290/21ede38150b6f600",
+            "Priority": "2",
+            "Conditions": [
+                {
+                    "Field": "host-header",
+                    "Values": [
+                        "apieng.smartcloud.com.au"
+                    ],
+                    "HostHeaderConfig": {
+                        "Values": [
+                            "apieng.smartcloud.com.au"
+                        ]
+                    }
+                },
+                {
+                    "Field": "path-pattern",
+                    "Values": [
+                        "/events/*"
+                    ],
+                    "PathPatternConfig": {
+                        "Values": [
+                            "/events/*"
+                        ]
+                    }
+                }
+            ],
+            "Actions": [
+                {
+                    "Type": "forward",
+                    "TargetGroupArn": "arn:aws:elasticloadbalancing:ap-southeast-1:711157212011:targetgroup/ecs-eng-events/0771e165b29db09f",
+                    "ForwardConfig": {
+                        "TargetGroups": [
+                            {
+                                "TargetGroupArn": "arn:aws:elasticloadbalancing:ap-southeast-1:711157212011:targetgroup/ecs-eng-events/0771e165b29db09f",
+                                "Weight": 1
+                            }
+                        ],
+                        "TargetGroupStickinessConfig": {
+                            "Enabled": false
+                        }
+                    }
+                }
+            ],
+            "IsDefault": false
+        }
+    ]
+}

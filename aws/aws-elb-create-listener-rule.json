@@ -1,0 +1,14 @@
+[
+    {
+        "Field": "host-header",
+        "HostHeaderConfig": {
+            "Values": ["apitest.smartcloud.com.au"]
+        }
+    },
+    {
+        "Field": "path-pattern",
+        "PathPatternConfig": {
+            "Values": ["/events/*"]
+        }
+    }
+]

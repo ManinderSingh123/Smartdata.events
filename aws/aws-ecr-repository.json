@@ -1,0 +1,13 @@
+{
+    "repository": {
+        "repositoryArn": "arn:aws:ecr:ap-southeast-1:711157212011:repository/events-eng",
+        "registryId": "711157212011",
+        "repositoryName": "events-eng",
+        "repositoryUri": "711157212011.dkr.ecr.ap-southeast-1.amazonaws.com/events-eng",
+        "createdAt": "2020-06-04T11:59:51+08:00",
+        "imageTagMutability": "MUTABLE",
+        "imageScanningConfiguration": {
+            "scanOnPush": true
+        }
+    }
+}

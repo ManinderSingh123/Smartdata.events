@@ -1,0 +1,28 @@
+{
+    "cluster": "defaultST",
+    "serviceName": "events-eng-service",
+    "taskDefinition": "events-eng",
+    "launchType": "FARGATE",
+    "platformVersion": "LATEST",
+    "loadBalancers": [
+      {
+          "targetGroupArn": "arn:aws:elasticloadbalancing:ap-southeast-1:711157212011:targetgroup/ecs-eng-events/0771e165b29db09f",
+          "containerName": "events-eng",
+          "containerPort": 80
+      }
+   ],
+    "networkConfiguration": {
+       "awsvpcConfiguration": {
+          "assignPublicIp": "DISABLED",
+          "securityGroups": [ "sg-0894b0073db966de8" ],
+          "subnets": [ "subnet-8e91e0c7" ]
+       }
+    },
+    "desiredCount": 1,
+    "tags": [
+      {
+        "key": "Environment",
+        "value": "Eng PROD"
+      }
+    ]
+}

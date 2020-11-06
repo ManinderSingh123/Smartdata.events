@@ -1,0 +1,324 @@
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\nlog.config
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.exe
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.xml
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.deps.json
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.runtimeconfig.json
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.runtimeconfig.dev.json
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.pdb
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.Views.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.Views.pdb
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Kendo.Mvc.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.csprojAssemblyReference.cache
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.AssemblyInfoInputs.cache
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.AssemblyInfo.cs
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.csproj.CoreCompileInputs.cache
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.MvcApplicationPartsAssemblyInfo.cs
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.MvcApplicationPartsAssemblyInfo.cache
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorAssemblyInfo.cache
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorAssemblyInfo.cs
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.TagHelpers.input.cache
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.TagHelpers.output.cache
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorCoreGenerate.cache
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Main\Index.cshtml.g.cs
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Shared\_EventDetail.cshtml.g.cs
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Shared\_Top5Events.cshtml.g.cs
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\_ViewImports.cshtml.g.cs
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorTargetAssemblyInfo.cache
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorTargetAssemblyInfo.cs
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.Views.pdb
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.csproj.CopyComplete
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\staticwebassets\Redmap.Events.StaticWebAssets.Manifest.cache
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\staticwebassets\Redmap.Events.StaticWebAssets.xml
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.dll
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.pdb
+D:\ManinderSingh\RedmapMark1\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.genruntimeconfig.cache
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.pdb
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.csprojAssemblyReference.cache
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\staticwebassets\Redmap.Events.StaticWebAssets.Manifest.cache
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\staticwebassets\Redmap.Events.StaticWebAssets.xml
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorAssemblyInfo.cache
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorAssemblyInfo.cs
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.AssemblyInfoInputs.cache
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.AssemblyInfo.cs
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\nlog.config
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.exe
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.xml
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.deps.json
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.runtimeconfig.json
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.runtimeconfig.dev.json
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.pdb
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.Views.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.Views.pdb
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Kendo.Mvc.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.TagHelpers.input.cache
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.TagHelpers.output.cache
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorCoreGenerate.cache
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Main\Index.cshtml.g.cs
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Shared\_EventDetail.cshtml.g.cs
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Shared\_Top5Events.cshtml.g.cs
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\_ViewImports.cshtml.g.cs
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorTargetAssemblyInfo.cache
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorTargetAssemblyInfo.cs
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.Views.pdb
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.csproj.CopyComplete
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.MvcApplicationPartsAssemblyInfo.cs
+D:\Day User\Sunil\Projects\CentralisedErrorLogging\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.MvcApplicationPartsAssemblyInfo.cache
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.AssemblyInfoInputs.cache
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.AssemblyInfo.cs
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorAssemblyInfo.cache
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorAssemblyInfo.cs
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\nlog.config
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.exe
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.xml
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.deps.json
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.runtimeconfig.json
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.runtimeconfig.dev.json
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.pdb
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.Views.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.Views.pdb
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\Kendo.Mvc.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.TagHelpers.input.cache
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.TagHelpers.output.cache
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorCoreGenerate.cache
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Main\Index.cshtml.g.cs
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Shared\_EventDetail.cshtml.g.cs
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Shared\_Top5Events.cshtml.g.cs
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\_ViewImports.cshtml.g.cs
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorTargetAssemblyInfo.cache
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorTargetAssemblyInfo.cs
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.Views.pdb
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.csproj.CopyComplete
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\staticwebassets\Redmap.Events.StaticWebAssets.Manifest.cache
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\staticwebassets\Redmap.Events.StaticWebAssets.xml
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.pdb
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.genruntimeconfig.cache
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.csprojAssemblyReference.cache
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.csproj.CoreCompileInputs.cache
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.MvcApplicationPartsAssemblyInfo.cs
+D:\ManinderSingh\RedmapEventMark\redmap.webservice.events\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.MvcApplicationPartsAssemblyInfo.cache
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\nlog.config
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.exe
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.xml
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.deps.json
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.runtimeconfig.json
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.runtimeconfig.dev.json
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.pdb
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.Views.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.Views.pdb
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Kendo.Mvc.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.AssemblyInfoInputs.cache
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.AssemblyInfo.cs
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.csproj.CoreCompileInputs.cache
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.MvcApplicationPartsAssemblyInfo.cs
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.MvcApplicationPartsAssemblyInfo.cache
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorAssemblyInfo.cache
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorAssemblyInfo.cs
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.TagHelpers.input.cache
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.TagHelpers.output.cache
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorCoreGenerate.cache
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Main\Index.cshtml.g.cs
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Shared\_EventDetail.cshtml.g.cs
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Shared\_Top5Events.cshtml.g.cs
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\_ViewImports.cshtml.g.cs
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\Events\RedmapEvent.cshtml.g.cs
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EventDetail.cshtml.g.cs
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Top5Events.cshtml.g.cs
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorTargetAssemblyInfo.cache
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorTargetAssemblyInfo.cs
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.Views.pdb
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.csproj.CopyComplete
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\staticwebassets\Redmap.Events.StaticWebAssets.Manifest.cache
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\staticwebassets\Redmap.Events.StaticWebAssets.xml
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.dll
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.pdb
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.genruntimeconfig.cache
+D:\ManinderSingh\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.csprojAssemblyReference.cache
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\nlog.config
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\appsettings.json
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.exe
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.xml
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.deps.json
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.runtimeconfig.json
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.runtimeconfig.dev.json
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.pdb
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.Views.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Redmap.Events.Views.pdb
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\bin\Debug\netcoreapp3.1\Kendo.Mvc.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.AssemblyInfoInputs.cache
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.AssemblyInfo.cs
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.csproj.CoreCompileInputs.cache
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.MvcApplicationPartsAssemblyInfo.cs
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.MvcApplicationPartsAssemblyInfo.cache
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorAssemblyInfo.cache
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorAssemblyInfo.cs
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.TagHelpers.input.cache
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.TagHelpers.output.cache
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorCoreGenerate.cache
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Main\Index.cshtml.g.cs
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Shared\_EventDetail.cshtml.g.cs
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\Shared\_Top5Events.cshtml.g.cs
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Areas\Events\Views\_ViewImports.cshtml.g.cs
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\Events\RedmapEvent.cshtml.g.cs
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EventDetail.cshtml.g.cs
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Top5Events.cshtml.g.cs
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorTargetAssemblyInfo.cache
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.RazorTargetAssemblyInfo.cs
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.Views.pdb
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.csproj.CopyComplete
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\staticwebassets\Redmap.Events.StaticWebAssets.Manifest.cache
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\staticwebassets\Redmap.Events.StaticWebAssets.xml
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.dll
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.pdb
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.genruntimeconfig.cache
+D:\maninder\Redmap.Events\Centralization\Redmap.Events\obj\Debug\netcoreapp3.1\Redmap.Events.csprojAssemblyReference.cache

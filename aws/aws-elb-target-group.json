@@ -1,0 +1,23 @@
+{
+    "TargetGroups": [
+        {
+            "TargetGroupArn": "arn:aws:elasticloadbalancing:ap-southeast-1:711157212011:targetgroup/ecs-eng-events/0771e165b29db09f",
+            "TargetGroupName": "ecs-eng-events",
+            "Protocol": "HTTP",
+            "Port": 80,
+            "VpcId": "vpc-2c6bd04b",
+            "HealthCheckProtocol": "HTTP",
+            "HealthCheckPort": "traffic-port",
+            "HealthCheckEnabled": true,
+            "HealthCheckIntervalSeconds": 30,
+            "HealthCheckTimeoutSeconds": 5,
+            "HealthyThresholdCount": 5,
+            "UnhealthyThresholdCount": 2,
+            "HealthCheckPath": "/events/swagger/index.html",
+            "Matcher": {
+                "HttpCode": "200"
+            },
+            "TargetType": "ip"
+        }
+    ]
+}
